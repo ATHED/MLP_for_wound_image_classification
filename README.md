@@ -1,4 +1,4 @@
-# MLP_for_wound_image_classification
+# Multi-layer Perceptron (MLP) model for wound image classification task
 
 This project is part of the wearable real-time wound monitor project in Oregon State University funded by NIH NIBIB R01EB028104 grant.
 
